@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#39FF14;">⚡ RADHA GOEL ⚡</h1>
-<h3 align="center">Full-Stack Developer | DSA Grinder | Future Software Engineer</h3>
+<h3 align="center">Full-Stack with AI Developer | DSA Grinder | Future Software Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=39FF14&center=true&vCenter=true&width=650&lines=Code.+Build.+Ship.;DSA+%7C+Full-Stack+%7C+AI;Consistency+beats+talent;Grinding+every+single+day" />
@@ -38,10 +38,10 @@
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/RadhaGoel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhaGoel&repo=AI-Job-Application-Copilot&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhaGoel&repo=job-application-copilot&theme=tokyonight" />
   </a>
   <a href="https://github.com/RadhaGoel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhaGoel&repo=DSA-Tracker&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhaGoel&repo=Personal-Assistant-AI&theme=tokyonight" />
   </a>
 </p>
 
@@ -51,8 +51,6 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Radha_Goel?theme=dark&font=JetBrains+Mono&ext=contest" />
 </p>
-
-> 🔁 Replace `YOUR_LEETCODE_USERNAME` with your actual LeetCode ID later
 
 ---
 
