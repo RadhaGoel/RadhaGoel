@@ -36,16 +36,13 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/RadhaGoel">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RadhaGoel&repo=job-application-copilot&theme=tokyonight" />
 
-  </a>
-  <a href="https://github.com/RadhaGoel">
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RadhaGoel&repo=Personal-Assistant-AI&theme=tokyonight" />
+- 🔹 **AI Job Application Copilot**  
+  👉 https://github.com/RadhaGoel/job-application-copilot
 
-  </a>
-</p>
+- 🔹 **DSA Tracker**  
+  👉 https://github.com/RadhaGoel/Personal-Assistant-AI
+
 
 ---
 
