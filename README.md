@@ -38,10 +38,12 @@
 ## 🚀 Featured Projects
 <p align="center">
   <a href="https://github.com/RadhaGoel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhaGoel&repo=job-application-copilot&theme=tokyonight" />
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RadhaGoel&repo=job-application-copilot&theme=tokyonight" />
+
   </a>
   <a href="https://github.com/RadhaGoel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RadhaGoel&repo=Personal-Assistant-AI&theme=tokyonight" />
+   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RadhaGoel&repo=Personal-Assistant-AI&theme=tokyonight" />
+
   </a>
 </p>
 
