@@ -23,15 +23,12 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RadhaGoel&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhaGoel&theme=tokyonight" />
-</p>
+## 📊 GitHub Overview
+![GitHub Metrics](https://metrics.lecoq.io/RadhaGoel?template=classic&languages=1&activity=1&theme=tokyonight)
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhaGoel&layout=compact&theme=tokyonight" />
-</p>
+## 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=RadhaGoel&theme=tokyonight)
+
 
 ---
 
@@ -69,9 +66,5 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RadhaGoel&theme=matrix&row=1&column=6" />
-</p>
 
 <h3 align="center" style="color:#39FF14;">🔥 I don’t compete with others. I outwork them. 🔥</h3>
