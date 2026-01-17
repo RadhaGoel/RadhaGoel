@@ -21,14 +21,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,linux" />
 </p>
 
----
-
-## 📊 GitHub Overview
-![GitHub Metrics](https://metrics.lecoq.io/RadhaGoel?template=classic&languages=1&activity=1&theme=tokyonight)
-
-## 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=RadhaGoel&theme=tokyonight)
-
 
 ---
 
