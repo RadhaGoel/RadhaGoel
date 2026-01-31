@@ -30,7 +30,7 @@
   👉 https://github.com/RadhaGoel/job-application-copilot
 
 - 🔹 **DSA Tracker**  
-  👉 https://github.com/RadhaGoel/Personal-Assistant-AI
+  👉 https://github.com/RadhaGoel/leetcode-daily
 
 
 ---
