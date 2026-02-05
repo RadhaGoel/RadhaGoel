@@ -8,7 +8,9 @@
 <hr style="border:1px solid #39FF14;">
 
 ## 🧠 About Me
-Pre-final year full stack developer-strong foundations in DSA and problem solving and AI powered web projects.
+I am a pre-final year B.Tech Computer Science Engineering student with a strong foundation in AI powered full-stack web development, software engineering and. I enjoy building practical projects that solve real problems and help me apply concepts beyond theory.
+
+My focus areas include frontend development, backend systems, and problem-solving using Java and JavaScript. I am continuously improving my skills by working on hands-on projects, learning new technologies, and writing clean, maintainable code. I aim to grow as a developer and contribute to meaningful software products.
 
 ---
 
