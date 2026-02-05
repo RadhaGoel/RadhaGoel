@@ -8,11 +8,7 @@
 <hr style="border:1px solid #39FF14;">
 
 ## 🧠 About Me
-- 🎓 B.Tech CSE (3rd Year)
-- 💻 Full-Stack Developer (React • Node • MongoDB)
-- 🧩 Strong in DSA & Problem Solving
-- 🚀 Building real-world + AI-powered projects
-- 🎯 Goal: **A better future**
+Pre-final year full stack developer-strong foundations in DSA and problem solving and AI powered web projects.
 
 ---
 
