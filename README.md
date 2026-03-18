@@ -24,11 +24,14 @@ My focus areas include frontend development, backend systems, and problem-solvin
 
 ## 🚀 Featured Projects
 
+- 🔹 **Leads Generator**  
+  👉 https://github.com/RadhaGoel/ai-lead-generation-text
+
 - 🔹 **AI Job Application Copilot**  
   👉 https://github.com/RadhaGoel/job-application-copilot
 
-- 🔹 **DSA Tracker**  
-  👉 https://github.com/RadhaGoel/leetcode-daily
+- 🔹 **Prodcare**  
+  👉 https://github.com/RadhaGoel/PRODCARE
 
 
 ---
